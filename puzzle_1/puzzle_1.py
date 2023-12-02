@@ -10,7 +10,7 @@ def count(filename):
             count += coord
     return count
 
-bgrjigbrjieo
+
 
 def main():
     print(count('day1input.txt'))
