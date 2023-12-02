@@ -11,8 +11,7 @@ def count(filename):
     return count
 
 
-
 def main():
-    print(count('day1input.txt'))
+    print(count("input.txt"))
 
 main()
